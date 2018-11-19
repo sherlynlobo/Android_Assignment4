@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Array of strings
     String[] collegeArray = {"Centennial College","Seneca College","Humber College","Sheridan College",
-            "Lambton College","George Brown College","Canadore College"};
+            "Lambton College"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,14 +50,7 @@ public class MainActivity extends AppCompatActivity {
                         Intent newActivity5 = new Intent(MainActivity.this, LambtonCollege.class);
                         startActivity(newActivity5);
                         break;
-                    case 5:
-                        Intent newActivity6 = new Intent(MainActivity.this, GeorgeBrownCollege.class);
-                        startActivity(newActivity6);
-                        break;
-                    case 6:
-                        Intent newActivity7 = new Intent(MainActivity.this, CanadoreCollege.class);
-                        startActivity(newActivity7);
-                        break;
+
                 }
             }
 

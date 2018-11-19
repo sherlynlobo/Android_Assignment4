@@ -69,7 +69,34 @@
             android:label="@string/title_activity_maps_sen_mark" />
         <activity
             android:name=".MapsActivitySenKing"
-            android:label="@string/title_activity_maps_sen_york"></activity>
+            android:label="@string/title_activity_maps_sen_york" />
+        <activity
+            android:name=".MapsActivityHumN"
+            android:label="@string/title_activity_maps_hum_n" />
+        <activity
+            android:name=".MapsActivityHumL"
+            android:label="@string/title_activity_maps_hum_l" />
+        <activity
+            android:name=".MapsActivityHumOrg"
+            android:label="@string/title_activity_maps_hum_org" />
+        <activity
+            android:name=".MapsActivitySherOk"
+            android:label="@string/title_activity_maps_sher_ok" />
+        <activity
+            android:name=".MapsActivitySherDav"
+            android:label="@string/title_activity_maps_sher_dav" />
+        <activity
+            android:name=".MapsActivitySherHazeMc"
+            android:label="@string/title_activity_maps_haze_mc" />
+        <activity
+            android:name=".MapsActivityLamTo"
+            android:label="@string/title_activity_maps_lam_to" />
+        <activity
+            android:name=".MapsActivityLamMiss"
+            android:label="@string/title_activity_maps_lam_miss" />
+        <activity
+            android:name=".MapsActivitySarnia"
+            android:label="@string/title_activity_maps_sarnia"></activity>
     </application>
 
 </manifest>

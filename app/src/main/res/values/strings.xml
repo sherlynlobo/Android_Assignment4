@@ -8,4 +8,13 @@
     <string name="title_activity_maps_sen_newh">Map</string>
     <string name="title_activity_maps_sen_mark">Map</string>
     <string name="title_activity_maps_sen_york">Map</string>
+    <string name="title_activity_maps_hum_n">Map</string>
+    <string name="title_activity_maps_hum_l">Map</string>
+    <string name="title_activity_maps_hum_org">Map</string>
+    <string name="title_activity_maps_sher_ok">Map</string>
+    <string name="title_activity_maps_sher_dav">Map</string>
+    <string name="title_activity_maps_haze_mc">Map</string>
+    <string name="title_activity_maps_lam_to">Map</string>
+    <string name="title_activity_maps_lam_miss">Map</string>
+    <string name="title_activity_maps_sarnia">Map</string>
 </resources>
