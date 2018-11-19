@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SherlynLobo_MAPD711_Lab_Assignment4</string>
+    <string name="title_activity_maps_cent_pg">Map</string>
+    <string name="title_activity_maps_cent_ms">Map</string>
+    <string name="title_activity_maps_ash">Map</string>
+    <string name="title_activity_maps_pick">Map</string>
+    <string name="title_activity_maps_cent_s">Map</string>
+    <string name="title_activity_maps_sen_newh">Map</string>
+    <string name="title_activity_maps_sen_mark">Map</string>
+    <string name="title_activity_maps_sen_york">Map</string>
 </resources>

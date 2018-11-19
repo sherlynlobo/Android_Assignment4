@@ -11,7 +11,7 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
 
 
-    // Array of strings...
+    // Array of strings
     String[] collegeArray = {"Centennial College","Seneca College","Humber College","Sheridan College",
             "Lambton College","George Brown College","Canadore College"};
 
@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayAdapter adapter = new ArrayAdapter<String>(this,
                 R.layout.activity_campus, collegeArray);
 
+        // Configure the list view.
         ListView listView = (ListView) findViewById(R.id.colleges_listview);
         listView.setAdapter(adapter);
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
